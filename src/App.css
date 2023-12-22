@@ -1,9 +1,10 @@
 .App {
-    background: linear-gradient(to right, #bb7ee1, #863ece);
+    background: linear-gradient(to right, #f3b6f3, #b58ca8);
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 5%;
+    margin-top: 3%;
     width: 91%;
     margin-left: 6%;
     height: auto;
@@ -84,7 +85,7 @@ input {
 
 
 .todoCompleteCard {
-    background-color: rgb(173, 130, 242);
+    background-color: #a358b6;
     width: 50%;
     margin-bottom: 2%;
     align-items: center;

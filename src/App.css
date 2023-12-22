@@ -1,5 +1,5 @@
 .App {
-    background: linear-gradient(to right, #f3b6f3, #b58ca8);
+    background: linear-gradient(to right, #f6f5f6, #d7c7d2);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -20,8 +20,9 @@
     margin-top: 2%;
     width: 80%;
     padding: 0 20px;
-    background: linear-gradient(to right, #c07aec, #470886);
+    background: linear-gradient(to right, #c07aec, #c0b3cd);
     box-shadow: 5px 5px 5px 2px black;
+    border-radius: 10px;
 
 }
 
@@ -73,7 +74,7 @@ input {
 
 .completed {
 
-    background: linear-gradient(to right, #7712b6, #fefdff);
+    background: linear-gradient(to right, #a170bf, #fefdff);
 
     height: 90%;
     width: 90%;
@@ -85,7 +86,7 @@ input {
 
 
 .todoCompleteCard {
-    background-color: #a358b6;
+    background-color: #d8aee3;
     width: 50%;
     margin-bottom: 2%;
     align-items: center;

@@ -63,7 +63,7 @@ const App = () => {
       <div className="header">
         <h1>TODO App</h1>
         <button className="reset-button" onClick={handleReset}>
-          <span role="img" aria-label="reset">🔄</span>
+          <span role="img" aria-label="reset"></span>
           Reset
         </button>
       </div>
